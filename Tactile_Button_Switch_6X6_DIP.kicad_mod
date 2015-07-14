@@ -1,4 +1,4 @@
-(module Tactile_Push_Button_Switch_6X6X5mm_4-pin_DIP (layer F.Cu) (tedit 55A5085F)
+(module Tactile_Button_Switch_6X6_DIP (layer F.Cu) (tedit 55A5085F)
   (fp_text reference Switch (at 0 -4) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
